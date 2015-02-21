@@ -1,0 +1,6 @@
+{
+    "file": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite/bourbon/**/*.scss",
+    "file": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite/bitters/**/*.scss",
+    "file": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite/neat/**/*.scss",
+    "file": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite/refills/stylesheets/**/*.scss"
+}

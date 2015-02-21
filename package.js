@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
     api.versionsFrom("METEOR@1.0");
-    api.use('fourseven:scss@1.0.0');
+    api.use('grigio:ruby-sass@0.0.8');
 
     api.addFiles('scss.json', 'server');
 

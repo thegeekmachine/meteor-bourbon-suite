@@ -1,8 +1,0 @@
-{
-    "includePaths": [
-        ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon_suite/bourbon",
-        ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon_suite/bitters",
-        ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon_suite/neat",
-        ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon_suite/refills/stylesheets"
-    ]
-}
