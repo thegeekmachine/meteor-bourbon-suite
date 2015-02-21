@@ -1,5 +1,5 @@
 Package.describe({
-    name: "thegeekmachine:meteor-bourbon-suite",
+    name: "thegeekmachine:bourbon-suite",
     summary: "Meteor 1.0+ - Scaffold styles, variables, structure and reusable components for Bourbon projects",
     version: "0.1.0",
     git: "https://github.com/thegeekmachine/meteor-bourbon-suite"
@@ -94,8 +94,8 @@ Package.onUse(function(api) {
         "bourbon/addons/_triangle.scss",
         "bourbon/addons/_word-wrap.scss",
         // Bourbon almost-deprecated mixins
-        "_bourbon-deprecated-upcoming.scss",
-        "_bourbon.scss",
+        "bourbon/_bourbon-deprecated-upcoming.scss",
+        "bourbon/_bourbon.scss",
         
         // Bitters mixins
         "bitters/_base.scss",
