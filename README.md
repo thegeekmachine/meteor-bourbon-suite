@@ -13,7 +13,7 @@ This package requires `ruby-sass` to be installed in order to compile scss files
 Add a `ruby-sass.json` file to the root of the project, with the following contents:
 
     {
-        'import': '.meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite'
+        "import": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite"
     }
 
 Run `meteor`. Enjoy ^\_^
