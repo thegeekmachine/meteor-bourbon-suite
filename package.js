@@ -7,9 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
     api.versionsFrom("METEOR@1.0");
-    api.use('grigio:ruby-sass@0.0.8');
-
-    api.addFiles('ruby-sass.json', 'server');
+    api.use('thegeekmachine:ruby-sass@0.1.0');
 
     api.addFiles([
         // Bourbon settings
