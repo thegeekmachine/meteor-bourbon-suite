@@ -1,7 +1,7 @@
 Package.describe({
     name: "thegeekmachine:bourbon-suite",
     summary: "Meteor 1.0+ - Scaffold styles, variables, structure and reusable components for Bourbon projects",
-    version: "0.1.1",
+    version: "0.1.2",
     git: "https://github.com/thegeekmachine/meteor-bourbon-suite"
 });
 

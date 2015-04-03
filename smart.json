@@ -2,7 +2,7 @@
     "name": "thegeekmachine:bourbon-suite",
     "description": "Meteor 1.0+ - Scaffold styles, variables, structure and reusable components for Bourbon projects",
     "author": "thegeekmachine <thegeekmachine.co@gmail.com>",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "git": "https://github.com/thegeekmachine/meteor-bourbon-suite",
     "packages": {
         "thegeekmachine:ruby-sass": {}
