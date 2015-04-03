@@ -16,7 +16,7 @@ Add a `ruby-sass.json` file to the root of the project, with the following conte
         "import": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite"
     }
 
-Install [ruby-sass]():
+Install [ruby-sass](https://github.com/thegeekmachine/meteor-ruby-sass):
 
     $ meteor add thegeekmachine:ruby-sass
 
