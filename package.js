@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
     api.versionsFrom("METEOR@1.0");
-    api.use('thegeekmachine:ruby-sass');
+    api.use('thegeekmachine:ruby-sass@0.1.1');
 
     api.addFiles([
         // Bourbon settings
