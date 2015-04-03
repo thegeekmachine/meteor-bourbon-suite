@@ -16,6 +16,17 @@ Add a `ruby-sass.json` file to the root of the project, with the following conte
         "import": ".meteor/local/build/programs/server/assets/packages/thegeekmachine_bourbon-suite"
     }
 
+Install [ruby-sass]():
+
+    $ meteor add thegeekmachine:ruby-sass
+
+Import any library in the bourbon family like so:
+
+     @import "bourbon/bourbon"; /* For bourbon */
+     @import "bitters/base"; /* For bitters */
+     @import "neat/neat"; /* For neat */
+     @import "refills/stylesheets/all"; /* For neat */
+
 Run `meteor`. Enjoy ^\_^
 
 
