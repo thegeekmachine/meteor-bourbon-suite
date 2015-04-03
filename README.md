@@ -25,7 +25,7 @@ Import any library in the bourbon family like so:
      @import "bourbon/bourbon"; /* For bourbon */
      @import "bitters/base"; /* For bitters */
      @import "neat/neat"; /* For neat */
-     @import "refills/stylesheets/all"; /* For neat */
+     @import "refills/stylesheets/all"; /* For ALL of refills */
 
 Run `meteor`. Enjoy ^\_^
 
