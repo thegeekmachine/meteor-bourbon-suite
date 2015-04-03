@@ -1,13 +1,13 @@
 Package.describe({
     name: "thegeekmachine:bourbon-suite",
     summary: "Meteor 1.0+ - Scaffold styles, variables, structure and reusable components for Bourbon projects",
-    version: "0.1.0",
+    version: "0.1.1",
     git: "https://github.com/thegeekmachine/meteor-bourbon-suite"
 });
 
 Package.onUse(function(api) {
     api.versionsFrom("METEOR@1.0");
-    api.use('thegeekmachine:ruby-sass@0.1.0');
+    api.use('thegeekmachine:ruby-sass');
 
     api.addFiles([
         // Bourbon settings
