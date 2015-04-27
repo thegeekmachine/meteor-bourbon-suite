@@ -1,3 +1,4 @@
+(function($) {
 $(document).ready(function() {
   if ($("#js-parallax-window").length) {
     parallax();
@@ -28,3 +29,4 @@ function parallax(){
     plxBackground.css('top', - (plxWindowTopToWindowTop * plxSpeed) + 'px');
   }
 }
+})(jQuery);

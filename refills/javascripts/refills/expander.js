@@ -1,3 +1,4 @@
+(function($) {
 $(document).ready(function() {
   var expanderTrigger = document.getElementById("js-expander-trigger");
   var expanderContent = document.getElementById("js-expander-content");
@@ -6,3 +7,4 @@ $(document).ready(function() {
     $(this).toggleClass("expander-hidden");
   });
 });
+})(jQuery);
